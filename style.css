@@ -15,6 +15,9 @@ p
 h4{
     background-color: darkslategrey;
 }
+.container{
+    background-color:dimgrey ;
+}
 
 .copy_right_footer {
   position:fixed;
