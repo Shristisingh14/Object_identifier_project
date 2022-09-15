@@ -1,0 +1,27 @@
+.heading
+{
+    background-color: lightgray;
+  font-size: 25px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+
+p
+{
+    background-color: darkgray;
+}
+
+h4{
+    background-color: darkslategrey;
+}
+
+.copy_right_footer {
+  position:fixed;
+  bottom:0;
+  color:black;
+  width:100%;
+  background-color: gray;
+  line-height: 3;
+  text-align: center;
+}
