@@ -15,9 +15,7 @@ p
 h4{
     background-color: darkslategrey;
 }
-.container{
-    background-color:dimgrey ;
-}
+
 
 .copy_right_footer {
   position:fixed;
@@ -26,5 +24,13 @@ h4{
   width:100%;
   background-color: gray;
   line-height: 3;
+  text-align: center;
+}
+
+#conclusion
+{
+    background-color: lightgray;
+   width: 75%;
+  box-shadow:5px 5px 5px grey;
   text-align: center;
 }
